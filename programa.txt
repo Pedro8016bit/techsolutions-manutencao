@@ -1,1 +1,3 @@
 sistema funciona
+programa da erro 
+programa volta a funcionar
